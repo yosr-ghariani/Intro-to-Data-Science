@@ -13,5 +13,5 @@ The NLP task consists of building an SMS spam detector and classify the sms into
 *Dataset* : [SMS Spam collection dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
 
-**Note** : These are Kaggle notebooks.
+##### *Please note that These are Kaggle notebooks.*
 
